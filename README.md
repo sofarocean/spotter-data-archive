@@ -30,3 +30,6 @@ In your terminal, with your environment activated,
 jupyter notebook
 ```
 This should open a directory navigator in your browser where you can navigate to `examples/` and select an .ipynb notebook.
+
+## Contributing
+We encourage community contribution of example scripts and specific analysis done using this dataset via pull request. Contact isabel.houghton@sofarocean.com with any questions.
