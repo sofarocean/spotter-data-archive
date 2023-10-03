@@ -3,7 +3,6 @@ pandas
 xarray
 zarr
 jupyter
-s3fs
 matplotlib
 Shapely
 pyshp
