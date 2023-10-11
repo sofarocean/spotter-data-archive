@@ -31,5 +31,13 @@ jupyter notebook
 ```
 This should open a directory navigator in your browser where you can navigate to `examples/` and select an .ipynb notebook.
 
+If you encounter an error when importing packages related to the Python package `libproj`, install the following in your virtual environment. 
+
+```bash
+brew install gdal
+```
+
+Make sure to restart terminal/Jupyter Notebook before attempting to rerun the scripts. 
+
 ## Contributing
 We encourage community contribution of example scripts and specific analysis done using this dataset via pull request. Contact isabel.houghton@sofarocean.com with any questions.
