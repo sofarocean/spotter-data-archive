@@ -2,6 +2,7 @@ numpy
 pandas
 xarray
 zarr
+s3fs
 jupyter
 matplotlib
 Shapely
