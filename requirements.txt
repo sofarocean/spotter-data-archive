@@ -9,3 +9,4 @@ Shapely
 pyshp
 pyproj
 cartopy
+clouddrift>=0.24.0
