@@ -10,3 +10,5 @@ pyshp
 pyproj
 cartopy
 clouddrift>=0.24.0
+roguewavespectrum>=0.1.1
+
