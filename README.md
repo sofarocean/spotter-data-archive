@@ -1,5 +1,5 @@
 # Spotter Data Archive
-A repo for getting started with the Sofar Spotter data archive using Python.
+A repo for getting started with the Sofar Spotter data archive using Python. The S3 bucket with the files (zarr and netCDF) can be viewed [here](https://sofar-spotter-archive.s3.amazonaws.com/index.html).
 
 ## Setup
 To get started, in your terminal,
