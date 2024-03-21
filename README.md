@@ -1,4 +1,7 @@
 # Spotter Data Archive
+
+Data in this archive is to be used in accordance with the [Sofar Ocean Spotter Data Archive License](https://sofarocean.notion.site/Sofar-Data-Access-Agreement-fe4e091fa0b5453d9a8bd97c4b6940d5).
+
 ![example_spotter_map](https://github.com/sofarocean/spotter-data-archive/assets/54418491/2c0949f6-6f67-4497-b3dc-8062fba01ef7)
 
 This repository is for getting started with the Sofar Spotter data archive using Python. 
